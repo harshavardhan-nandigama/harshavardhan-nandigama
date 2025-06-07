@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Harshavardhan Nandigama
 
-🚀 Cloud & DevOps Engineer (Entry-Level)  
-🛠️ Skilled in AWS, Terraform, Ansible, Jenkins, Docker, Shell & Python  
-📍 Bengaluru | [LinkedIn](https://www.linkedin.com/in/harshavardhan-nandigama/) | 📬 harshavardhan.gama@gmail.com
+ Cloud & DevOps Engineer (Entry-Level)  
+ Skilled in AWS, Terraform, Ansible, Jenkins, Docker, Shell & Python  
+ Bengaluru | [LinkedIn](https://www.linkedin.com/in/harshavardhan-nandigama/) | 📬 harshavardhan.gama@gmail.com
 
 ---
 
@@ -10,7 +10,7 @@
 
 - **Cloud:** AWS (EC2, S3, IAM, RDS, VPC, Route 53, Lambda)
 - **DevOps:** Terraform, Ansible, Jenkins, GitHub Actions
-- **Containers:** Docker, Kubernetes (basics)
+- **Containers:** Docker, Kubernetes
 - **Automation:** Shell Scripting, Python (REST API, Jira, GitHub)
 - **Monitoring:** CloudWatch, Prometheus, ELK
 
@@ -20,7 +20,7 @@
 
 > A complete infrastructure-as-code project to deploy a cloud-based product-selling web app using:
 
-✅ **Terraform** for AWS provisioning (EC2, S3, RDS, VPC)  
+✅ **Terraform** for AWS provisioning 
 ✅ **Ansible** for app configuration & hardening  
 ✅ **Shell Scripting** for automated backups & logs  
 ✅ **Jenkins** for CI/CD + Docker deployment  
@@ -52,10 +52,6 @@
 
 ---
 
-## 📜 Certifications
-
-- **AWS Solutions Architect (Training Completed)** – Besant Technologies  
-- **Linux + DevOps Hands-on (Training Completed)** – CI/CD, Docker, Git, Scripting
 
 ---
 
