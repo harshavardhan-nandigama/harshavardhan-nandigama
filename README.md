@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshavardhan Nandigama
 
- Entry-Level Cloud & DevOps Engineer  
+ Cloud & DevOps Engineer  
  AWS | Terraform | Ansible | Jenkins | Docker | Kubernetes | Python | Shell 
  
  contact
