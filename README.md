@@ -5,7 +5,6 @@
  
  Bengaluru
  📧 harshavardhan.gama@gmail.com  
- 
 🔗 [LinkedIn](https://www.linkedin.com/in/harshavardhan-nandigama/)
 
 ---
