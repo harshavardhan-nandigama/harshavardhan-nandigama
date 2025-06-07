@@ -2,7 +2,8 @@
 
  Entry-Level Cloud & DevOps Engineer  
  AWS | Terraform | Ansible | Jenkins | Docker | Kubernetes | Python | Shell 
- Bengaluru |
+ 
+ Bengaluru
  📧 harshavardhan.gama@gmail.com  
  
 🔗 [LinkedIn](https://www.linkedin.com/in/harshavardhan-nandigama/)
