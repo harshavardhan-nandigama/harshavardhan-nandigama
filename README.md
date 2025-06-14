@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Harshavardhan Nandigama
+# Hi, I'm Harshavardhan Nandigama
 
  AWS DevOps Engineer  
- AWS | Terraform | Ansible | Jenkins | Docker | Kubernetes | Python | Shell 
  
  contact
  📧 harshavardhan.gama@gmail.com  
@@ -11,11 +10,10 @@
 
 ## 🧰 Tech Stack
 
-- **Cloud:** AWS (EC2, S3, IAM, VPC, RDS, Lambda, Route 53)
-- **DevOps:** Terraform, Ansible, Jenkins, GitHub Actions
-- **Containers:** Docker, Kubernetes
-- **Automation:** Python, Shell scripting
-- **Monitoring:** CloudWatch, Prometheus, ELK
+- **Cloud Computing:** AWS- EC2 |  S3 | IAM | VPC | Route 53 | CloudWatch, and more
+- **OS & Scripting:** Linux | Bash | Python
+- **DevOps:** Git | Terraform | Ansible | Helm | Docker |  Kubernetes | Argo CD | Jenkins | Nexus | SonarQube | Veracode
+- **Observability & Collaboration:** Prometheus | Grafana | ELK Stack | Jira | ServiceNow
 
 ---
 
