@@ -9,7 +9,7 @@ Trained DevOps Engineer | Skilled in AWS, Linux, Docker, Kubernetes, Terraform, 
 
 ## 🧰 Tech Stack
 
-**Cloud & Infrastructure:**  AWS- EC2 | S3 | IAM | VPC | Route 53 | CloudWatch
+**Cloud & Infrastructure:**  AWS- EC2 | S3 | IAM | VPC | RDS | Route 53 | Lambda | ECR | EKS | CloudFront | CloudWatch
 
 **OS & Scripting:** Linux | Bash | Python 
 
