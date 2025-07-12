@@ -1,6 +1,5 @@
 # Hi, I'm Harshavardhan Nandigama
-
- AWS DevOps Engineer  
+Trained DevOps Engineer | Skilled in AWS, Linux, Docker, Kubernetes, Terraform, Git, CI/CD & Security Best Practices | Cloud & Automation Enthusiast | Open to Work
  
  contact
  📧 harshavardhan.gama@gmail.com  
