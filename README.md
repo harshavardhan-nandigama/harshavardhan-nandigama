@@ -13,7 +13,7 @@ Trained DevOps Engineer | Skilled in AWS, Linux, Docker, Kubernetes, Terraform, 
 
 **OS & Scripting:** Linux | Bash | Python 
 
-**DevOps & Automation:**  Git | Terraform | Ansible | Jenkins | Docker | Kubernetes | Helm | Argo CD
+**DevOps & Automation:**  Git | Maven | Terraform | Ansible | Jenkins | Docker | Kubernetes | Helm | Argo CD
 
 **DevSecOps & CI/CD Security:** SonarQube | Veracode | Nexus | IAM | KMS | SG | NACL | Shift-Left Security
 
