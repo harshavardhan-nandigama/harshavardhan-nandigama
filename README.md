@@ -9,10 +9,20 @@ Trained DevOps Engineer | Skilled in AWS, Linux, Docker, Kubernetes, Terraform, 
 
 ## 🧰 Tech Stack
 
-- **Cloud Computing:**  AWS- EC2 |  S3 | IAM | VPC | Route 53 | CloudWatch, and more
-- **OS & Scripting:**  Linux | Bash | Python
-- **DevOps:**  Git | Terraform | Ansible | Helm | Docker |  Kubernetes | Argo CD | Jenkins | Nexus | SonarQube | Veracode
-- **Observability & Collaboration:**  Prometheus | Grafana | ELK Stack | Jira | ServiceNow
+**Cloud & Infrastructure:**  
+AWS (EC2, S3, IAM, VPC, Route 53, CloudWatch)
+
+**OS & Scripting:**  
+Linux, Bash, Python (Basics)
+
+**DevOps & Automation:**  
+Git, Terraform, Ansible, Jenkins, Docker, Kubernetes, Helm, Argo CD
+
+**DevSecOps & CI/CD Security:**  
+Nexus, SonarQube, Veracode, Secure CI/CD, Shift-Left Security
+
+**Monitoring & Collaboration:**  
+Prometheus, Grafana, ELK Stack, Jira, ServiceNow
 
 ---
 
