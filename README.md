@@ -61,3 +61,12 @@ Built and deployed a production-grade **e-commerce application** using a **3-tie
 [![](https://visitcount.itsvg.in/api?id=harshavardhan-nandigama&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/harshavardhan-nandigama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harshavardhan-nandigama" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@harshavardhan-nandigama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@harshavardhan-nandigama" height="30" width="40" /></a>
+</p>
