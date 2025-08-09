@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 # Hi, I'm Harshavardhan Nandigama
 A self-motivated DevOps and Cloud enthusiast with hands-on experience in building secure, scalable infrastructure using AWS and modern DevOps tools.
 
