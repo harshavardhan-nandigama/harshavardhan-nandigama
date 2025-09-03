@@ -17,7 +17,7 @@ With a B.Tech in Electrical & Electronics Engineering and a strong curiosity for
 
 **🔐 DevSecOps & Security:** SonarQube | Veracode | Nexus IQ | IAM | KMS | Security Groups | NACL | Shift-Left Security 
 
-**📊 Monitoring & Tools:** Prometheus | Grafana | ELK Stack | Jira | ServiceNow
+**📊 Monitoring & collaboration:** Prometheus | Grafana | ELK Stack | Jira | ServiceNow
 
 ---
 
